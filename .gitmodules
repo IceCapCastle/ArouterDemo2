@@ -1,0 +1,9 @@
+[submodule "Store"]
+	path = Store
+	url = https://github.com/arthasAndDk/Store.git
+[submodule "Other"]
+	path = Other
+	url = https://github.com/arthasAndDk/Other.git
+[submodule "Home"]
+	path = Home
+	url = https://github.com/arthasAndDk/Home.git
